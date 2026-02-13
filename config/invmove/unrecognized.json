@@ -1,0 +1,24 @@
+{
+  "allowMovement": {
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "net.levelz.screen.SkillScreen": true,
+    "net.jobsaddon.screen.JobScreen": true,
+    "net.nutritionz.screen.NutritionScreen": true,
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_5522": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.class_429": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "net.levelz.screen.SkillScreen": true,
+    "net.jobsaddon.screen.JobScreen": true,
+    "net.nutritionz.screen.NutritionScreen": true,
+    "net.minecraft.class_5522": true
+  }
+}

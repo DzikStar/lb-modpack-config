@@ -1,0 +1,43 @@
+# === System / Launcher ===
+.fabric/
+.mixin.out/
+.modrinth/
+/backups/
+/debug/
+/logs/
+/crash-reports/
+
+# === Player data and local settings (Prywatne) ===
+/saves/
+/screenshots/
+config/indium-renderer.properties
+config/iris.properties
+config/sodium-extra-options.json
+config/sodium-extra.properties
+config/sodium-fingerprint.json
+config/sodium-mixins.properties
+config/sodium-options.json
+launcher_profiles.json
+options.txt
+optionsof.txt
+servers.dat
+usercache.json
+usernamecache.json
+
+# === Bigger files and packs (distributed in releases) ===
+/mods/
+/resourcepacks/
+/shaderpacks/
+/datapacks/
+
+# === Trashes and mods cache ===
+/.mixin.out/
+/data/
+/modernfix/
+/moddata/
+/moonlight-global-datapacks/
+/xaero/
+irisUpdateInfo.json
+
+# === Optional ===
+# /defaultconfigs/
