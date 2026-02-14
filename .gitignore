@@ -28,7 +28,6 @@ usernamecache.json
 /mods/
 /resourcepacks/
 /shaderpacks/
-/datapacks/
 
 # === Trashes and mods cache ===
 /.mixin.out/

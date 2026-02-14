@@ -6,7 +6,7 @@
 	"eagle_eyed_enchantment": true,
 	"dexterity_enchantment": true,
 	// Disable when LevelZ mod installed
-	"inaccuracy_curse_enchantment": true,
+	"inaccuracy_curse_enchantment": false,
 	"polar_star": true,
 	// Only visible through spy glass
 	"other_stars": true,
@@ -26,7 +26,7 @@
 	"path_block_speed_boost": 0.03,
 	// Ticks: 20 = 1 second
 	"disable_elytra_on_damage_time": 40,
-	"disable_elytra_underwater": false,
+	"disable_elytra_underwater": true,
 	"husk_drops_sand": true,
 	"trident_buried_treasure": true,
 	"villager_sleeping_eyes": true,
