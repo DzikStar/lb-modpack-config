@@ -5,7 +5,7 @@
   "backgroundOpacity": 0.4,
   "nameplateHeight": 0.5,
   "nameplateSize": -0.025,
-  "showHealth": false,
+  "showHealth": true,
   "showLevel": true,
   "showHostileOnly": false,
   "squaredDistance": 128.0,

@@ -11,7 +11,7 @@
 	"enableStartPoints": false,
 	"pointsPerLevel": 1,
 	// If true will reset stats on death
-	"hardMode": false,
+	"hardMode": true,
 	"disableMobFarms": true,
 	// Amount of allowed mob kills in a chunk
 	"mobKillCount": 5,

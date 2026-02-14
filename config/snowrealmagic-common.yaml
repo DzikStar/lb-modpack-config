@@ -19,10 +19,10 @@ snow-cover:
   placeNaturally: true
 accumulation:
   naturalMelting: true
-  snowAndIceMeltInWarmBiomes: false
-  maxLayers: 8
+  snowAndIceMeltInWarmBiomes: true
+  maxLayers: 9
   accumulatesDuringSnowstorm: true
-  accumulatesDuringSnowfall: false
+  accumulatesDuringSnowfall: true
 debug:
   weatherTickSlowness: 16
   mobSpawningCommand: false

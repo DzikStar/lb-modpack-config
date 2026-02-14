@@ -10,7 +10,7 @@
 
         # Set to % of damage-reduction from Protection Enchantments that should be ignored.
         # Allowed range: 0.0 ~ 1.0 - Default: 0.33
-        penetratingStrikeProtectionIgnorance = 0.33
+        penetratingStrikeProtectionIgnorance = 0.25
 
     [Artifacts.Tunneling]
         # En-/Disables the effects of the Tunneling enchantment.

@@ -16,7 +16,7 @@
   "doTemperatureChanges": true,
   "shouldSnowReplaceVegetation": true,
   "shouldSnowyBiomesMeltInSummer": true,
-  "shouldIceNearWaterMelt": false,
+  "shouldIceNearWaterMelt": true,
   "shouldIceBreakSugarCane": false,
   "biomeDenylist": [
     "terralith:glacial_chasm",
@@ -41,7 +41,7 @@
   "isSeasonMessingCrops": true,
   "isSeasonMessingBonemeal": false,
   "doCropsGrowsNormallyUnderground": false,
-  "doAnimalsBreedInWinter": true,
+  "doAnimalsBreedInWinter": false,
   "notifyCompat": true,
   "debugCommandEnabled": false
 }

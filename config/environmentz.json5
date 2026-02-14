@@ -8,9 +8,9 @@
 	"thermometerIconX": 140,
 	"thermometerIconY": 32,
 	"showThermometer": true,
-	"startUpComfortEffectDuration": 9600,
+	"startUpComfortEffectDuration": 18000,
 	// Handle with care!
-	"heatBlockRadius": 3,
+	"heatBlockRadius": 5,
 	"printInConsole": false,
 	// White overlay while in cold biomes
 	"coldOverlay": true,

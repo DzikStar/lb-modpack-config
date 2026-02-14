@@ -1,6 +1,6 @@
 {
 	// Time in ticks: -1 disables timer
-	"timer": -1,
+	"timer": 2400,
 	// Drops player loot directly
 	"dropLoot": false,
 	// Drops player inventory items randomly

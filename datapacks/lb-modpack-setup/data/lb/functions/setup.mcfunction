@@ -6,4 +6,4 @@ gamerule artifacts.snorkel.waterBreathingDuration 600 # 30 seconds
 gamerule artifacts.crystalHeart.healthBonus 4
 
 # --- LOG MESSAGE ---
-tellraw @a {"text":"[System] The Great Expedition config loaded successfully!","color":"green"}
+tellraw @a {"text":"[System] LB Modpack config loaded successfully!"}
