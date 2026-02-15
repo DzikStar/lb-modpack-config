@@ -1,11 +1,5 @@
 {
-	"favorites": [
-		"{data:{Count:1b,id:\"travelersbackpack:netherite_tier_upgrade\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"travelersbackpack:diamond_tier_upgrade\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:string\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:acacia_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:acacia_sign\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-	],
+	"favorites": [],
 	"hiddenFavorites": [],
 	"displays": []
 }

@@ -4,7 +4,7 @@
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		"cheating": false,
-		"favoritesEnabled": true,
+		"favoritesEnabled": false,
 		"reduceMotion": false,
 		"keyBindings": {
 			"useNativeKeybinds": false,
@@ -72,7 +72,7 @@
 		// Declares whether entry panel should be invisible when not searching
 		"hideEntryPanelIfIdle": false,
 		"rainbow": false,
-		"horizontalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundaries": 0.9491525423728814,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
 		"verticalEntriesBoundariesRows": 1000,
@@ -86,9 +86,9 @@
 	"functionality": {
 		"inputMethod": null,
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": false,
+		"disableRecipeBook": true,
 		// Declares whether mob effects should be on the left side instead of the right side.
-		"leftSideMobEffects": false,
+		"leftSideMobEffects": true,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true,
@@ -133,7 +133,7 @@
 			// Declares whether search time should be debugged.
 			"debugSearchTimeRequired": false,
 			// Declares whether REI should search async.
-			"asyncSearch": true,
+			"asyncSearch": false,
 			// Declares how many entries should be grouped one async search.
 			"asyncSearchPartitionSize": 100,
 			"patchAsyncThreadCrash": true,
@@ -187,7 +187,11 @@
 					"farmersdelight:plugin/decomposition",
 					"minecraft:plugins/fletching",
 					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/tag",
+					"betterend:alloying_fuel",
+					"betterend:alloying",
+					"betterend:infusion",
+					"betterend:smithing"
 				],
 				"hiddenCategories": []
 			}
@@ -197,7 +201,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			]
 		}
 	}

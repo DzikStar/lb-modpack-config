@@ -11,7 +11,11 @@
     "net.minecraft.class_5522": true,
     "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
     "net.minecraft.class_429": true,
-    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.levelz.screen.SkillListScreen": true,
+    "net.levelz.screen.SkillInfoScreen": true,
+    "me.shedaniel.rei.impl.client.gui.config.REIConfigScreen": true,
+    "me.shedaniel.rei.impl.client.gui.config.options.configure.PanelBoundariesConfiguration$BoundariesScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
@@ -19,6 +23,8 @@
     "net.levelz.screen.SkillScreen": true,
     "net.jobsaddon.screen.JobScreen": true,
     "net.nutritionz.screen.NutritionScreen": true,
-    "net.minecraft.class_5522": true
+    "net.minecraft.class_5522": true,
+    "net.levelz.screen.SkillListScreen": true,
+    "net.levelz.screen.SkillInfoScreen": true
   }
 }
