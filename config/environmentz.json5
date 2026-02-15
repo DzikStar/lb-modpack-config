@@ -16,7 +16,7 @@
 	"coldOverlay": true,
 	"shakingScreenEffect": true,
 	// Handles thirst when Dehydration mod is loaded
-	"overheatingExhaustion": 0.07500000298023224,
+	"overheatingExhaustion": 0.05000000074505806,
 	// Undo dehydration mod compat
 	"exhaustionInsteadDehydration": false,
 	"blurScreenEffect": true

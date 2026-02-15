@@ -1,10 +1,10 @@
 {
 	// Defines the damage taken every 4 seconds
-	"thirst_damage": 1.0,
+	"thirst_damage": 10.0,
 	// Defines speed of dehydration, bigger value = slower depletion
-	"hydrating_factor": 2.0,
+	"hydrating_factor": 2.299999952316284,
 	// Defines the rate of the thirst effect's drain, smaller variable = less draining
-	"thirst_effect_factor": 0.029999999329447746,
+	"thirst_effect_factor": 0.05000000074505806,
 	"potion_thirst_quench": 2,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
 	"potion_bad_thirst_chance": 0.25,
@@ -33,7 +33,7 @@
 	"flask_dirty_thirst_duration": 200,
 	"water_souce_quench": 2,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
-	"water_sip_thirst_chance": 0.5,
+	"water_sip_thirst_chance": 0.6000000238418579,
 	// Counted in ticks, 20 ticks = 1 second
 	"water_sip_thirst_duration": 300,
 	"allow_non_flowing_water_sip": false,
@@ -51,7 +51,7 @@
 	// Applies to all ultrawarm dimensions
 	"harder_nether": true,
 	// 1.3 = 30% more thirst
-	"nether_factor": 1.350000023841858,
+	"nether_factor": 40.0,
 	// Enables alternate textures by the lead texture artist
 	"other_droplet_texture": false,
 	"hud_x": 0,
