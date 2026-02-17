@@ -18,7 +18,11 @@
     "me.shedaniel.rei.impl.client.gui.config.options.configure.PanelBoundariesConfiguration$BoundariesScreen": true,
     "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
     "net.minecraft.class_418$class_8183": true,
-    "net.minecraft.class_410": true
+    "net.minecraft.class_410": true,
+    "net.minecraft.class_443": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "net.minecraft.class_458": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,

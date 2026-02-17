@@ -7,7 +7,7 @@
 /logs/
 /crash-reports/
 
-# === Player data and local settings (Prywatne) ===
+# === Player data and local config (Private) ===
 /saves/
 /screenshots/
 config/indium-renderer.properties
