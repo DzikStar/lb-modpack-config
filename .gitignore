@@ -26,7 +26,6 @@ usernamecache.json
 
 # === Bigger files and packs (distributed in releases) ===
 /mods/
-/resourcepacks/
 /shaderpacks/
 
 # === Trashes and mods cache ===
