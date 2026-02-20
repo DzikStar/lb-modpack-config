@@ -1,0 +1,24 @@
+{
+  "tooltip.seasons.spring": "Wiosna",
+  "tooltip.seasons.summer": "Lato",
+  "tooltip.seasons.fall": "Jesień",
+  "tooltip.seasons.winter": "Zima",
+  "tooltip.seasons.faster_grow": "Rośnie szybciej o tej porze roku",
+  "tooltip.seasons.normal_grow": "Rośnie normalnie o tej porze roku",
+  "tooltip.seasons.slowed_grow": "Rośnie wolniej o tej porze roku",
+  "tooltip.seasons.not_grow": "Nie urośnie o tej porze roku",
+  "tooltip.seasons.show_more": "Naciśnij %s, aby pokazać więcej",
+  "tooltip.seasons.season_delimitator": ": ",
+  "tooltip.seasons.season_speed": "%s%s%s%% prędkości",
+  "tooltip.seasons.combined_grow": "%s (%s%%)",
+
+  "chat.seasons.mod_installed": "Wygląda na to, że masz zainstalowany %s!",
+  "chat.seasons.compatibility": "Zainstaluj dodatek, aby uzyskać pełną kompatybilność z Fabric Seasons.",
+  "chat.seasons.mod_not_installed": "Wygląda na to, że nie masz zainstalowanego modu %s!",
+  "chat.seasons.extras": "Zainstaluj dodatek, aby otrzymać specjalne przedmioty i bloki, które pomogą Ci w przygodzie.",
+  "chat.seasons.available_at": "Dostępne pod: ",
+  "chat.seasons.show_once": "Ta wiadomość wyświetli się tylko raz.",
+
+  "commands.seasons.query_1": "Obecna pora roku: %s.",
+  "commands.seasons.query_2": "Zostało %s dni (%s ticków) do poru roku: %s"
+}
