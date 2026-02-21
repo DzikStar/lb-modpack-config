@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "survivor_diaries"
+	group: "00D129189A273501"
+	id: "23533635B43074A3"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["{quests.survivor.01_rocks.description}"]
+		id: "3B121E8095F32855"
+		tasks: [{
+			count: 2L
+			id: "47B994FE1BD5B4C9"
+			item: { Count: 2, id: "earlystage:rock" }
+			type: "item"
+		}]
+		title: "{quests.survivor.01_rocks.title}"
+		x: -1.0d
+		y: 0.0d
+	}]
+	title: "Survivor Diaries"
+}

@@ -22,7 +22,8 @@
     "net.minecraft.class_443": true,
     "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
     "net.minecraft.class_458": true,
-    "com.blamejared.controlling.client.NewKeyBindsScreen": true
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
@@ -32,6 +33,7 @@
     "net.nutritionz.screen.NutritionScreen": true,
     "net.minecraft.class_5522": true,
     "net.levelz.screen.SkillListScreen": true,
-    "net.levelz.screen.SkillInfoScreen": true
+    "net.levelz.screen.SkillInfoScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
   }
 }
