@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "questschapterchapter03title"
+	group: "770CA7FA8BDF792D"
+	icon: "minecraft:netherrack"
+	id: "1ECF185901E64D0D"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "{quests.chapter.nether.title}"
+}

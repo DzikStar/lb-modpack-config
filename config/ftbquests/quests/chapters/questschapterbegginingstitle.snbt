@@ -1,0 +1,108 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "questschapterbegginingstitle"
+	group: "770CA7FA8BDF792D"
+	icon: "earlystage:rock"
+	id: "4FD8B603EE3B9A90"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "224094686E499562"
+			tasks: [{
+				count: 3L
+				id: "1547881A7A500D11"
+				item: { Count: 3, id: "earlystage:rock" }
+				type: "item"
+			}]
+			title: "{quests.begginings.collect_rock.title}"
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			id: "7DA274E84FC350DF"
+			tasks: [{
+				count: 4L
+				id: "43B5E10270A02C2B"
+				item: { Count: 5, id: "minecraft:stick" }
+				type: "item"
+			}]
+			title: "{quests.begginings.collect_stick.title}"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "0936409E9144168B"
+			tasks: [{
+				count: 5L
+				id: "34BF7CFCB60DD1F0"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			title: "{quests.begginings.collect_flint.title}"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"7DA274E84FC350DF"
+				"0936409E9144168B"
+				"5C9E60F9539E1A76"
+			]
+			id: "66BC49390A65C791"
+			size: 1.0d
+			tasks: [
+				{
+					id: "00EAAB70797C1C5B"
+					item: {
+						Count: 1
+						id: "earlystage:flint_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74C18C9E93632785"
+					item: {
+						Count: 1
+						id: "earlystage:flint_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3664923C475C6FB6"
+					item: {
+						Count: 1
+						id: "earlystage:flint_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "{quests.begginings.craft_flint_tools.title}"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["224094686E499562"]
+			id: "5C9E60F9539E1A76"
+			tasks: [{
+				id: "33357EA2B200B370"
+				item: "earlystage:crafting_rock"
+				type: "item"
+			}]
+			title: "{quests.begginings.stone_crafting_table.title}"
+			x: -2.0d
+			y: -1.5d
+		}
+	]
+	title: "{quests.chapter.begginings.title}"
+}

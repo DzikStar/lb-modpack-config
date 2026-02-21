@@ -1,0 +1,23 @@
+{
+    "quests.modpack.title": "LB Modpack",
+
+    "quests.category.gameplay.title": "Gameplay",
+    "quests.category.misc.title": "Miscelanious",
+    
+    "quests.chapter.begginings.title": "Chapter 1: Begginings",
+    "quests.chapter.overworld.title": "Chapter 2: Overworld",
+    "quests.chapter.nether.title": "Chapter 3: Nether",
+    "quests.chapter.otherside.title": "Chapter 4: Otherside",
+    "quests.chapter.the_end.title": "Chapter 5: End",
+
+    "quests.begginings.collect_rock.title": "Collect some rocks",
+    "quests.begginings.collect_rock.desc": "",
+    "quests.begginings.collect_stick.title": "Collect some sticks",
+    "quests.begginings.collect_stick.desc": "",
+    "quests.begginings.collect_flint.title": "Collect some rocks",
+    "quests.begginings.collect_flint.desc": "",
+    "quests.begginings.stone_crafting_table.title": "Find or craft stone crafting table",
+    "quests.begginings.stone_crafting_table.desc": "",
+    "quests.begginings.craft_flint_tools.title": "Craft tools using flint as material",
+    "quests.begginings.craft_flint_tools.desc": ""
+}

@@ -1,0 +1,23 @@
+{
+    "quests.modpack.title": "LB Modpack",
+
+    "quests.category.gameplay.title": "Rozgrywka",
+    "quests.category.misc.title": "Różne",
+
+    "quests.chapter.begginings.title": "Rozdział 1: Wczesne początki",
+    "quests.chapter.overworld.title": "Rozdział 2: Świat",
+    "quests.chapter.nether.title": "Rozdział 3: Nether",
+    "quests.chapter.otherside.title": "Rozdział 4: Druga Strona",
+    "quests.chapter.the_end.title": "Rozdział 5: End",
+
+    "quests.begginings.collect_rock.title": "Zbierz parę kamieni",
+    "quests.begginings.collect_rock.desc": "",
+    "quests.begginings.collect_stick.title": "Zbierz parę patyków",
+    "quests.begginings.collect_stick.desc": "",
+    "quests.begginings.collect_flint.title": "Zbierz trochę krzemienia",
+    "quests.begginings.collect_flint.desc": "",
+    "quests.begginings.stone_crafting_table.title": "Znajdź lub wytwórz kamienny stół rzemieślniczy",
+    "quests.begginings.stone_crafting_table.desc": "",
+    "quests.begginings.craft_flint_tools.title": "Wytwórz narzędzia z krzemiennych materiałów",
+    "quests.begginings.craft_flint_tools.desc": ""
+}

@@ -1,3 +1,6 @@
 {
-	chapter_groups: [{ id: "00D129189A273501", title: "{quests.survivor.title}" }]
+	chapter_groups: [
+		{ id: "770CA7FA8BDF792D", title: "{quests.category.gameplay.title}" }
+		{ id: "00DB2C5C29B17EB7", title: "{quests.category.misc.title}" }
+	]
 }
