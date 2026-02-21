@@ -23,7 +23,9 @@
     "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
     "net.minecraft.class_458": true,
     "com.blamejared.controlling.client.NewKeyBindsScreen": true,
-    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "dev.isxander.yacl3.gui.YACLScreen": true,
+    "eu.ha3.presencefootsteps.PFOptionsScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
